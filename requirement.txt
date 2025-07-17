@@ -1,0 +1,9 @@
+chromadb
+sentence-transformers
+numpy
+fitz
+pytesseract
+Pillow
+requests
+beautifulsoup4
+ollama
